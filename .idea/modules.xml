@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/books/.idea/books.iml" filepath="$USER_HOME$/Desktop/books/.idea/books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mern social.iml" filepath="$PROJECT_DIR$/.idea/mern social.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/react-covid-tracker-master/.idea/react-covid-tracker-master.iml" filepath="$USER_HOME$/Desktop/react-covid-tracker-master/.idea/react-covid-tracker-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/vaccine_tracker/.idea/vaccine_tracker.iml" filepath="$USER_HOME$/Desktop/vaccine_tracker/.idea/vaccine_tracker.iml" />
+    </modules>
+  </component>
+</project>
